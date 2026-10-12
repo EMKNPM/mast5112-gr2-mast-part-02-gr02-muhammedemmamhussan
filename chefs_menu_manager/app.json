@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Chef's Menu Manager",
+    "slug": "chefs-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f4f6f3"
+    },
+    "android": {
+      "package": "com.student.chefmenumanager"
+    }
+  }
+}
